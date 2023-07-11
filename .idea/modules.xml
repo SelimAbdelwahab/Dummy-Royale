@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Dummy_Royale_REMASTERED.iml" filepath="$PROJECT_DIR$/.idea/Dummy_Royale_REMASTERED.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Discord Bots/Offenders Bot/.idea/Offenders Bot.iml" filepath="$PROJECT_DIR$/../Discord Bots/Offenders Bot/.idea/Offenders Bot.iml" />
+    </modules>
+  </component>
+</project>

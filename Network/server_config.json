@@ -1,0 +1,8 @@
+{
+  "status": "pre_game_lobby",
+  "player_count": 0,
+  "players_needed_to_start": 2,
+  "match_start_time": 5,
+  "max_players": 100,
+  "map_info": []
+}
